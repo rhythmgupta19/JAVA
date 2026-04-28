@@ -3,7 +3,7 @@
 // Input must be take inside main method().
 // Return type must be void.
 // Print statement must be inside method body().
-// Name pf parameters and input variables can be same or different.
+// Name  parameters and input variables can be same or different.
 // Datatype of parameters and input variables must be same or lower than parameters datatype.
 
 

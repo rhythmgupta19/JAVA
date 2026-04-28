@@ -6,7 +6,7 @@
 // }
 // here a is the instance variable 
 
-// Case-->2     Instance must be accessed with obj only,if it hold somevalue.
+// Case-->2     Instance must be accessed with obj only,if it hold some value.
 // public class Instance_variables{
 //     int a = 10;
 //     public static void main(String[] args) {
